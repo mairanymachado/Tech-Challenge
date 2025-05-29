@@ -50,7 +50,7 @@ tech-challenge-backend
 ## Instruções de Configuração
 1. Clone o repositório:
    ```
-   git clone <https://github.com/Rennoi123/Tech-Challenge.git>
+   git clone <https://github.com/mairanymachado/Tech-Challenge.git>
    cd tech-challenge-backend
    ```
 
